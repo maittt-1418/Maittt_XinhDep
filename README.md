@@ -11,11 +11,13 @@
 
   * 80% ăn tại nhà
 
+
     ## **Công việc**
 
     + Tìm hiểu và thực hành Github
 
-    + Một tháng đọc 2 cuốn sách về quản lý
+
+    + Một tháng đọc 3 cuốn sách về quản lý
 
     + Thực hành Scrum
 
