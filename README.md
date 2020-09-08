@@ -9,13 +9,13 @@
 
   * ~~Duy trì body săn chắc~~
 
-  * 90% ăn tại nhà
+  * 80% ăn tại nhà
 
     ## **Công việc**
 
     + Tìm hiểu và thực hành Github
 
-    + Một tháng đọc 1 cuốn sách về quản lý
+    + Một tháng đọc 2 cuốn sách về quản lý
 
     + Thực hành Scrum
 
